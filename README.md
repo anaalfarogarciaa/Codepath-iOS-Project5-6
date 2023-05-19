@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project5-6/blob/a86a0d92a5999bd1999e48f147c00dd9ed423642/bereal_clone.gif' width='' alt='Video Walkthrough' />
 
 GIF created with Adobe Express. (https://express.adobe.com)
 
@@ -77,9 +77,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project5-6/blob/a86a0d92a5999bd1999e48f147c00dd9ed423642/bereal_clone.gif' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Express. (https://express.adobe.com/tools/convert-to-gif) 
 
 ## Notes
